@@ -10,7 +10,6 @@ public class Problem1 {
 		System.out.println("//////////////////////");
 		System.out.println("|| Victory is mine! ||");
 		System.out.println("//////////////////////");
-		//I pushed this to git
 	}
 
 }
