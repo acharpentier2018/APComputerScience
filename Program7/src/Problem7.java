@@ -3,7 +3,7 @@
  * Problem7
  * prints a tricky text
  */
-public class Porblem7 {
+public class Problem7 {
 
 	public static void main(String[] args) {
 		//prints the text
