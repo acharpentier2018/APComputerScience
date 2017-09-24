@@ -33,5 +33,6 @@ public class Problem10 {
 		//Prints your healthy weight
 		System.out.println("Your healthy weight is: " + weight + " lbs");
 		
+		//finished this before the change, felt like it accomplished the task, no need to change.
 	}
 }
