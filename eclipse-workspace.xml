@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project Program7">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+    <!--define folder properties-->
+    <property name="dir.buildfile" value="."/>
+    <property name="dir.workspace" value="C:/Users/Alex/eclipse-workspace"/>
+    <property name="dir.jarfile" value="C:/Users/Alex/Desktop"/>
+    <target name="create_run_jar">
+        <jar destfile="${dir.jarfile}/MiniProjects1.zip" filesetmanifest="mergewithoutmain">
+            <manifest>
+                <attribute name="Main-Class" value="Porblem7"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset dir="${dir.buildfile}/Program7/bin"/>
+        </jar>
+    </target>
+</project>
