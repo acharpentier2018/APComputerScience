@@ -1,4 +1,8 @@
-
+/*
+ * Alex Charpentier
+ * Program5
+ * Prints a figure out of stars
+ */
 public class Problem5 {
 
 	public static void main(String[] args) {
